@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
-options: "18e1fa08544058db376ee6eaa23a9d24"
-build_time: [1572751948, 65818000]
-inputs:
-  "/Users/Leex/RxSwiftTest/RxSwiftTest/ViewController.swift": [1570523715, 427797198]
-  "/Users/Leex/RxSwiftTest/RxSwiftTest/AppDelegate.swift": [1570523715, 425359011]
